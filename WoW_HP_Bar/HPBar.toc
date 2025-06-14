@@ -1,0 +1,10 @@
+## Interface: 11404
+## Title: HP Bar
+## Author: Example Author
+## Version: 1.0
+## Notes: Simple movable HP bar
+## SavedVariables: HPBarDB
+
+HPBar.lua
+Config.lua
+Minimap.lua
